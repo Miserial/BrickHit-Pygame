@@ -43,3 +43,9 @@
 * 碰撞部分使用`pygame.sprite` 代替坐标逻辑判断
 * 外部文件： `ball_static.png`
 * 结构：`While True: `  `68~201|133` `-->` ` 129-209|80`
+
+`alpha.level(OOP).py`
+
+* 实现部分砖块逻辑
+* 更新了分数系统(与横向速度、连击数有关)
+* 外部文件：` blank.png` `levels_line.txt`
